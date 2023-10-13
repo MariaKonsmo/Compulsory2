@@ -116,7 +116,7 @@ int main()
         // Measure the time taken by Selection Sort in milliseconds
         long long time_taken = measureselectionsorttimeinmilliseconds(arr, n);
 
-        cout << "Time taken by Selection Sort for " << n << " elements: " << time_taken << " milliseconds" << std::endl;
+        cout << "Time taken by Quick Sort for " << n << " elements: " << time_taken << " milliseconds" << std::endl;
 
 
         // Print all the numbers in correct order
